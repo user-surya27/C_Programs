@@ -15,5 +15,5 @@ This repository contains basic C programs for practice and learning.
 ## 🛠️ Language Used
 - C
 
-📌 **Note**
+## 📌 Note
 New programs will be added soon.
