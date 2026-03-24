@@ -15,7 +15,5 @@ This repository contains basic C programs for practice and learning.
 ## 🛠️ Language Used
 - C
 
-## 📈 Future Improvements
-- Add more programs
-- Improve logic efficiency
-- Organize into folders
+📌 **Note**
+New programs will be added soon.
