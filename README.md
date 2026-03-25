@@ -5,6 +5,7 @@ This repository contains basic C programs for practice and learning.
 ## 📌 Programs Included
 - Odd Even Check
 - Prime Number
+- Fibonacci Series
 
 ## 🚀 How to Run
 1. Compile using:
