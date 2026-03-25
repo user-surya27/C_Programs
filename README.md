@@ -6,7 +6,7 @@ This repository contains basic C programs for practice and learning.
 - Odd Even Check
 - Prime Number
 - Fibonacci Series
-- Largest of three numbers
+- Largest of Three Numbers
 
 ## 🚀 How to Run
 1. Compile using:
