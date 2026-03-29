@@ -8,6 +8,7 @@ This repository contains basic C programs for practice and learning.
 - Fibonacci Series
 - Largest of Three Numbers
 - Swap two Numbers
+- Palindrome
 
 ## 🚀 How to Run
 1. Compile using:
