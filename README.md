@@ -7,6 +7,7 @@ This repository contains basic C programs for practice and learning.
 - Prime Number
 - Fibonacci Series
 - Largest of Three Numbers
+- Swap two Numbers
 
 ## 🚀 How to Run
 1. Compile using:
