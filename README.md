@@ -20,4 +20,4 @@ This repository contains basic C programs for practice and learning.
 - C
 
 ## 📌 Note
-New programs will be added soon.
+Consistantly adding new programs
