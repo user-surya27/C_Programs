@@ -9,6 +9,7 @@ This repository contains basic C programs for practice and learning.
 - Largest of Three Numbers
 - Swap two Numbers
 - Palindrome
+- Multiplication table
 
 ## 🚀 How to Run
 1. Compile using:
