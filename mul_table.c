@@ -1,3 +1,4 @@
+// C Program for multiplication table 
 #include <stdio.h>
 int main() {
     int num, i;
