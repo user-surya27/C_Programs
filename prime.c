@@ -1,3 +1,4 @@
+// C Program for check the number is Prime or Not
 #include <stdio.h>
 int main() {
     int n, i, flag = 0;
