@@ -10,6 +10,8 @@ This repository contains basic C programs for practice and learning.
 - Swap two Numbers
 - Palindrome
 - Multiplication table
+- Leap year
+- Largest of three
 
 ## 🚀 How to Run
 1. Compile using:
