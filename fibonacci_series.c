@@ -1,3 +1,4 @@
+// This program is for Fibonacci series
 #include <stdio.h>
 int main() {
     int n, i, first = 0, second = 1, next;
