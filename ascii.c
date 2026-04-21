@@ -1,4 +1,4 @@
-// C Program for finding the ASCII value 
+// C Program for finding the ASCII value
 #include <stdio.h>
 int main() {  
     char c;
