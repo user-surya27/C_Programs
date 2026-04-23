@@ -1,6 +1,7 @@
 // C Program for find the largest number among three numbers 
 #include <stdio.h>
-int main() {
+int main() 
+{
     double n1, n2, n3;
     printf("Enter three numbers: ");
     scanf("%lf %lf %lf", &n1, &n2, &n3);
